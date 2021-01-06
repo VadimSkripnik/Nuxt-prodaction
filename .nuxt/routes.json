@@ -1,0 +1,521 @@
+[
+  {
+    "name": "adresnietablichkione",
+    "path": "/adresnietablichkione",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\adresnietablichkione.vue",
+    "chunkName": "pages/adresnietablichkione",
+    "url": "/adresnietablichkione",
+    "_name": "_47cdd870"
+  },
+  {
+    "name": "adressnietablichki",
+    "path": "/adressnietablichki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\adressnietablichki.vue",
+    "chunkName": "pages/adressnietablichki",
+    "url": "/adressnietablichki",
+    "_name": "_81005e9a"
+  },
+  {
+    "name": "besedki",
+    "path": "/besedki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\besedki.vue",
+    "chunkName": "pages/besedki",
+    "url": "/besedki",
+    "_name": "_e8a39aea"
+  },
+  {
+    "name": "besedkiteplici",
+    "path": "/besedkiteplici",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\besedkiteplici.vue",
+    "chunkName": "pages/besedkiteplici",
+    "url": "/besedkiteplici",
+    "_name": "_71607cf2"
+  },
+  {
+    "name": "bytilnici",
+    "path": "/bytilnici",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\bytilnici.vue",
+    "chunkName": "pages/bytilnici",
+    "url": "/bytilnici",
+    "_name": "_e7906702"
+  },
+  {
+    "name": "carts",
+    "path": "/carts",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\carts.vue",
+    "chunkName": "pages/carts",
+    "url": "/carts",
+    "_name": "_0576f791"
+  },
+  {
+    "name": "cvetilniki",
+    "path": "/cvetilniki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\cvetilniki.vue",
+    "chunkName": "pages/cvetilniki",
+    "url": "/cvetilniki",
+    "_name": "_496ff110"
+  },
+  {
+    "name": "cvetochnicy",
+    "path": "/cvetochnicy",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\cvetochnicy.vue",
+    "chunkName": "pages/cvetochnicy",
+    "url": "/cvetochnicy",
+    "_name": "_2dd15cbe"
+  },
+  {
+    "name": "cyveniry",
+    "path": "/cyveniry",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\cyveniry.vue",
+    "chunkName": "pages/cyveniry",
+    "url": "/cyveniry",
+    "_name": "_28df2499"
+  },
+  {
+    "name": "dekorativnaymebel",
+    "path": "/dekorativnaymebel",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\dekorativnaymebel.vue",
+    "chunkName": "pages/dekorativnaymebel",
+    "url": "/dekorativnaymebel",
+    "_name": "_b0805454"
+  },
+  {
+    "name": "divanikresla",
+    "path": "/divanikresla",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\divanikresla.vue",
+    "chunkName": "pages/divanikresla",
+    "url": "/divanikresla",
+    "_name": "_1637d827"
+  },
+  {
+    "name": "dlagivotnix",
+    "path": "/dlagivotnix",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\dlagivotnix.vue",
+    "chunkName": "pages/dlagivotnix",
+    "url": "/dlagivotnix",
+    "_name": "_f3ba694a"
+  },
+  {
+    "name": "fryktovnicy",
+    "path": "/fryktovnicy",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\fryktovnicy.vue",
+    "chunkName": "pages/fryktovnicy",
+    "url": "/fryktovnicy",
+    "_name": "_43d6f8ec"
+  },
+  {
+    "name": "itagerka",
+    "path": "/itagerka",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\itagerka.vue",
+    "chunkName": "pages/itagerka",
+    "url": "/itagerka",
+    "_name": "_960502f4"
+  },
+  {
+    "name": "kacheli",
+    "path": "/kacheli",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\kacheli.vue",
+    "chunkName": "pages/kacheli",
+    "url": "/kacheli",
+    "_name": "_208a6145"
+  },
+  {
+    "name": "kachelione",
+    "path": "/kachelione",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\kachelione.vue",
+    "chunkName": "pages/kachelione",
+    "url": "/kachelione",
+    "_name": "_2742f431"
+  },
+  {
+    "name": "kaminienabory",
+    "path": "/kaminienabory",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\kaminienabory.vue",
+    "chunkName": "pages/kaminienabory",
+    "url": "/kaminienabory",
+    "_name": "_0d8311c6"
+  },
+  {
+    "name": "klychnici",
+    "path": "/klychnici",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\klychnici.vue",
+    "chunkName": "pages/klychnici",
+    "url": "/klychnici",
+    "_name": "_687abc3c"
+  },
+  {
+    "name": "knignici",
+    "path": "/knignici",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\knignici.vue",
+    "chunkName": "pages/knignici",
+    "url": "/knignici",
+    "_name": "_b226d158"
+  },
+  {
+    "name": "kontakts",
+    "path": "/kontakts",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\kontakts.vue",
+    "chunkName": "pages/kontakts",
+    "url": "/kontakts",
+    "_name": "_6cb2c0f6"
+  },
+  {
+    "name": "kovaniedveri",
+    "path": "/kovaniedveri",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\kovaniedveri.vue",
+    "chunkName": "pages/kovaniedveri",
+    "url": "/kovaniedveri",
+    "_name": "_da2589fe"
+  },
+  {
+    "name": "kozyrky",
+    "path": "/kozyrky",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\kozyrky.vue",
+    "chunkName": "pages/kozyrky",
+    "url": "/kozyrky",
+    "_name": "_6386269b"
+  },
+  {
+    "name": "kreslokachalka",
+    "path": "/kreslokachalka",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\kreslokachalka.vue",
+    "chunkName": "pages/kreslokachalka",
+    "url": "/kreslokachalka",
+    "_name": "_59feef74"
+  },
+  {
+    "name": "krovati",
+    "path": "/krovati",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\krovati.vue",
+    "chunkName": "pages/krovati",
+    "url": "/krovati",
+    "_name": "_34fe6486"
+  },
+  {
+    "name": "kyxonienabori",
+    "path": "/kyxonienabori",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\kyxonienabori.vue",
+    "chunkName": "pages/kyxonienabori",
+    "url": "/kyxonienabori",
+    "_name": "_45aa167a"
+  },
+  {
+    "name": "lavki",
+    "path": "/lavki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\lavki.vue",
+    "chunkName": "pages/lavki",
+    "url": "/lavki",
+    "_name": "_00e17a06"
+  },
+  {
+    "name": "legaki",
+    "path": "/legaki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\legaki.vue",
+    "chunkName": "pages/legaki",
+    "url": "/legaki",
+    "_name": "_22c34e63"
+  },
+  {
+    "name": "lestnicaogragdeniy",
+    "path": "/lestnicaogragdeniy",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\lestnicaogragdeniy.vue",
+    "chunkName": "pages/lestnicaogragdeniy",
+    "url": "/lestnicaogragdeniy",
+    "_name": "_0e9d6222"
+  },
+  {
+    "name": "lestnicaogragdeniydladoma",
+    "path": "/lestnicaogragdeniydladoma",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\lestnicaogragdeniydladoma.vue",
+    "chunkName": "pages/lestnicaogragdeniydladoma",
+    "url": "/lestnicaogragdeniydladoma",
+    "_name": "_453f4b86"
+  },
+  {
+    "name": "lestnicaogragdeniydlaylici",
+    "path": "/lestnicaogragdeniydlaylici",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\lestnicaogragdeniydlaylici.vue",
+    "chunkName": "pages/lestnicaogragdeniydlaylici",
+    "url": "/lestnicaogragdeniydlaylici",
+    "_name": "_f0d997f6"
+  },
+  {
+    "name": "lystry",
+    "path": "/lystry",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\lystry.vue",
+    "chunkName": "pages/lystry",
+    "url": "/lystry",
+    "_name": "_ded841b2"
+  },
+  {
+    "name": "mangali",
+    "path": "/mangali",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\mangali.vue",
+    "chunkName": "pages/mangali",
+    "url": "/mangali",
+    "_name": "_6dca71ef"
+  },
+  {
+    "name": "naborydlykamina",
+    "path": "/naborydlykamina",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\naborydlykamina.vue",
+    "chunkName": "pages/naborydlykamina",
+    "url": "/naborydlykamina",
+    "_name": "_27298826"
+  },
+  {
+    "name": "nastenievechalki",
+    "path": "/nastenievechalki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\nastenievechalki.vue",
+    "chunkName": "pages/nastenievechalki",
+    "url": "/nastenievechalki",
+    "_name": "_a1e722b0"
+  },
+  {
+    "name": "navesi",
+    "path": "/navesi",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\navesi.vue",
+    "chunkName": "pages/navesi",
+    "url": "/navesi",
+    "_name": "_9c9470ac"
+  },
+  {
+    "name": "navesykozyrki",
+    "path": "/navesykozyrki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\navesykozyrki.vue",
+    "chunkName": "pages/navesykozyrki",
+    "url": "/navesykozyrki",
+    "_name": "_f8d828fa"
+  },
+  {
+    "name": "ogragdeniyzabori",
+    "path": "/ogragdeniyzabori",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\ogragdeniyzabori.vue",
+    "chunkName": "pages/ogragdeniyzabori",
+    "url": "/ogragdeniyzabori",
+    "_name": "_0f654ccc"
+  },
+  {
+    "name": "okonierechetki",
+    "path": "/okonierechetki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\okonierechetki.vue",
+    "chunkName": "pages/okonierechetki",
+    "url": "/okonierechetki",
+    "_name": "_ce2adb24"
+  },
+  {
+    "name": "pergolyvinogradniki",
+    "path": "/pergolyvinogradniki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\pergolyvinogradniki.vue",
+    "chunkName": "pages/pergolyvinogradniki",
+    "url": "/pergolyvinogradniki",
+    "_name": "_05214baa"
+  },
+  {
+    "name": "pochtoviychik",
+    "path": "/pochtoviychik",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\pochtoviychik.vue",
+    "chunkName": "pages/pochtoviychik",
+    "url": "/pochtoviychik",
+    "_name": "_2cf5bf2c"
+  },
+  {
+    "name": "podcvechniki",
+    "path": "/podcvechniki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\podcvechniki.vue",
+    "chunkName": "pages/podcvechniki",
+    "url": "/podcvechniki",
+    "_name": "_5d6978c6"
+  },
+  {
+    "name": "podstavkipodvany",
+    "path": "/podstavkipodvany",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\podstavkipodvany.vue",
+    "chunkName": "pages/podstavkipodvany",
+    "url": "/podstavkipodvany",
+    "_name": "_08ea5354"
+  },
+  {
+    "name": "polkanastenay",
+    "path": "/polkanastenay",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\polkanastenay.vue",
+    "chunkName": "pages/polkanastenay",
+    "url": "/polkanastenay",
+    "_name": "_a232e1d4"
+  },
+  {
+    "name": "pyfiki",
+    "path": "/pyfiki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\pyfiki.vue",
+    "chunkName": "pages/pyfiki",
+    "url": "/pyfiki",
+    "_name": "_6edb27c8"
+  },
+  {
+    "name": "raznoe",
+    "path": "/raznoe",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\raznoe.vue",
+    "chunkName": "pages/raznoe",
+    "url": "/raznoe",
+    "_name": "_1126d72a"
+  },
+  {
+    "name": "readme",
+    "path": "/readme",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\readme.vue",
+    "chunkName": "pages/readme",
+    "url": "/readme",
+    "_name": "_0f18ece0"
+  },
+  {
+    "name": "rechetkidlykaminov",
+    "path": "/rechetkidlykaminov",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\rechetkidlykaminov.vue",
+    "chunkName": "pages/rechetkidlykaminov",
+    "url": "/rechetkidlykaminov",
+    "_name": "_bb5750ae"
+  },
+  {
+    "name": "rityalnieogragdeniy",
+    "path": "/rityalnieogragdeniy",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\rityalnieogragdeniy.vue",
+    "chunkName": "pages/rityalnieogragdeniy",
+    "url": "/rityalnieogragdeniy",
+    "_name": "_740578be"
+  },
+  {
+    "name": "rychki",
+    "path": "/rychki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\rychki.vue",
+    "chunkName": "pages/rychki",
+    "url": "/rychki",
+    "_name": "_449b8c7c"
+  },
+  {
+    "name": "stolby",
+    "path": "/stolby",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\stolby.vue",
+    "chunkName": "pages/stolby",
+    "url": "/stolby",
+    "_name": "_118896f2"
+  },
+  {
+    "name": "stoli",
+    "path": "/stoli",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\stoli.vue",
+    "chunkName": "pages/stoli",
+    "url": "/stoli",
+    "_name": "_528dda69"
+  },
+  {
+    "name": "styly",
+    "path": "/styly",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\styly.vue",
+    "chunkName": "pages/styly",
+    "url": "/styly",
+    "_name": "_646da303"
+  },
+  {
+    "name": "tabyretki",
+    "path": "/tabyretki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\tabyretki.vue",
+    "chunkName": "pages/tabyretki",
+    "url": "/tabyretki",
+    "_name": "_e8f6d00e"
+  },
+  {
+    "name": "teplici",
+    "path": "/teplici",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\teplici.vue",
+    "chunkName": "pages/teplici",
+    "url": "/teplici",
+    "_name": "_18f61480"
+  },
+  {
+    "name": "tyaletnistolik",
+    "path": "/tyaletnistolik",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\tyaletnistolik.vue",
+    "chunkName": "pages/tyaletnistolik",
+    "url": "/tyaletnistolik",
+    "_name": "_1278456c"
+  },
+  {
+    "name": "tymbapodobyv",
+    "path": "/tymbapodobyv",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\tymbapodobyv.vue",
+    "chunkName": "pages/tymbapodobyv",
+    "url": "/tymbapodobyv",
+    "_name": "_5d818e00"
+  },
+  {
+    "name": "vechalki",
+    "path": "/vechalki",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\vechalki.vue",
+    "chunkName": "pages/vechalki",
+    "url": "/vechalki",
+    "_name": "_000b3d62"
+  },
+  {
+    "name": "voliery",
+    "path": "/voliery",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\voliery.vue",
+    "chunkName": "pages/voliery",
+    "url": "/voliery",
+    "_name": "_e86c4218"
+  },
+  {
+    "name": "vorotaone",
+    "path": "/vorotaone",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\vorotaone.vue",
+    "chunkName": "pages/vorotaone",
+    "url": "/vorotaone",
+    "_name": "_1d199f21"
+  },
+  {
+    "name": "vorotatoo",
+    "path": "/vorotatoo",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\vorotatoo.vue",
+    "chunkName": "pages/vorotatoo",
+    "url": "/vorotatoo",
+    "_name": "_27da8b0f"
+  },
+  {
+    "name": "yrni",
+    "path": "/yrni",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\yrni.vue",
+    "chunkName": "pages/yrni",
+    "url": "/yrni",
+    "_name": "_dae2ed74"
+  },
+  {
+    "name": "zerkala",
+    "path": "/zerkala",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\zerkala.vue",
+    "chunkName": "pages/zerkala",
+    "url": "/zerkala",
+    "_name": "_829a04a0"
+  },
+  {
+    "name": "zontovnicy",
+    "path": "/zontovnicy",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\zontovnicy.vue",
+    "chunkName": "pages/zontovnicy",
+    "url": "/zontovnicy",
+    "_name": "_68b33df6"
+  },
+  {
+    "name": "post-id",
+    "path": "/post/:id?",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\post\\\\_id.vue",
+    "chunkName": "pages/post/_id",
+    "_name": "_c8dddd50"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\1.Для вёрстке в саблайме\\\\Nuxt-prodaction\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_70d140e0"
+  }
+]
