@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-blog",
+  "name": "nuxt",
   "version": "1.0.0",
-  "description": "My awesome nuxt fullstack blog",
-  "author": "Vladilen Minin",
+  "description": "My awesome nuxt",
+  "author": "Vadim Skripnik",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
